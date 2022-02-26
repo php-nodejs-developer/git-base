@@ -106,7 +106,7 @@
 # Работа с удаленными репозиториями
 ## Добавление (удаление) удалённых репозиториев:
 
-    git remote add <имя> <url>, например git remote add origin https://github.com/profi-jjd/project.git добавление
+    git remote add <имя> <url>, например git remote add origin https://github.com/php-nodejs-developer/project.git добавление
     git remote remove <имя>, например git remote remove origin удаление
 
 ## Отправка изменений в удаленный репозиторий:
